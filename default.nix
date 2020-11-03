@@ -1,4 +1,4 @@
 import <nixexprs-lib> {
-  name = "your-channel";
+  name = "invokesus";
   topdir = ./.;
 }
